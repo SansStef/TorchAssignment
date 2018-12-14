@@ -1,5 +1,5 @@
 # TorchAssignment
-# by Stefano Sansone
+by Stefano Sansone
 
 # To Build / Run
 Build using gradle and run as spring boot app
